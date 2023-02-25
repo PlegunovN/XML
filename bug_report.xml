@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Bug_1>
+<Title>text overlay in skills list</Title>
+<Equipment>Redmi Note 9</Equipment>
+<URL>https://ksendzov.com/</URL>
+<Steps> 	<1>go to https://ksendzov.com</1>
+		<2>scroll to the bottom of the list Course Program</2>
+</Steps>
+<Actual_result>the last line of the program will overlap with the next heading</Actual_result>
+<Expected_result>text without overlays</Expected_result>
+</Bug_1>
+    
